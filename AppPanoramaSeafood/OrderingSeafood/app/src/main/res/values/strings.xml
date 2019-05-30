@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Panorama Seafood</string>
+    <string name="title_activity_detail_food">Detail Food</string>
+    <string name="title_activity_pesan_food">Pesan</string>
+    <string name="title_activity_tampil_pesan">Daftar Pemesan</string>
+    <string name="title_activity_splash">Panorama Seafood</string>
+</resources>
